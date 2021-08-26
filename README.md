@@ -1,2 +1,2 @@
-# Objetivo desse repositório
-## Esse repositório vai ter vários exercícios de Python
+# Exercícios em Python - Em progresso
+> Exercício1 serviu para testar uma função
