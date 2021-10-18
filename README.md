@@ -3,4 +3,4 @@
 ## 
 > A pasta listas contém exercícios de listas
 ## 
-> A pasta orientação a objetos contém documentações e exemplos sobre poo
+> A pasta poo contém documentações e exemplos sobre orientação a objetos em Python
