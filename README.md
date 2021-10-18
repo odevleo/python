@@ -1,6 +1,6 @@
-# Exercícios em Python - Em progresso
-> Exercício1 serviu para testar uma função
+# Exercícios em Python
+> A pasta exercícios são exemplos de funções em gerais
 ## 
-> O Exercício2 é um exemplo simples de uma lista
+> A pasta listas contém exercícios de listas
 ## 
-> poo é a introdução básica de como criar classes em python
+> A pasta orientação a objetos contém documentações e exemplos sobre poo
