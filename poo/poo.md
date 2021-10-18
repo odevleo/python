@@ -11,7 +11,7 @@
 > 9.  nome
 > 10. idade
 > 11. sexo
-> 12. cpf
+> 12. cpf/cnpj
 > 13. endereço
 > 14. profissão
 > 15. trabalha
@@ -19,3 +19,16 @@
 > 17. filhos
 > 18.  
 > 19. Características de uma Classe são chamados de Atributos
+> 20. Podemos usar também o UML() para podermos abstrair melhor os atributos de uma classe.
+> 21. 
+> 22. Os comportamentos de uma classe são chamados de métodos.
+> 23. No contexto de uma Classe Pessoa para um sistema bancário, um exemplo de métodos seriam:
+> 24. depositar()
+> 25. sacar()
+> 26. transferir()
+> 27. saldo()
+
+### Métodos
+> -Permitem acesso a atributos, tanto para recuperar os valores, como para alterá-los caso necessário.
+> -Podem retornar ou não algum valor.
+> -Podem possuir ou não parâmetros.
